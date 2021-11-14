@@ -11,4 +11,8 @@ The analysis found several interesting aspects that would be helpful to further 
 * There are over 1,500 active employees that are available for mentorship opportunities. Finding ways to pair them with other employees would be extremely valuable for us to increase productivity in younger staff.
  
 ## Summary
+An additional query was made to look at the percentage of employees eligible for retirement. Over 66% of all eligible retirements will impact engineering and senior staff. We must have Human Resources focused on recruiting new talent in these areas and finding ways to upskill current staff to be ready to take on additional responsibilities. Lastly, a final query was made to look at the total amount of eligible employees that are ready to be mentors. Fortunately we have a large group of eligible employees who are engineers and senior staff that can be mentors to our younger talent. This should help alleviate some of our concerns with replacing retiring employees.
 
+![alt text](https://github.com/griswld2/Analysis-Projects-Folder/blob/main/Pewlett-Hackard-Analysis/Total_Mentorship_Eligibility.PNG)
+
+![alt text](https://github.com/griswld2/Analysis-Projects-Folder/blob/main/Pewlett-Hackard-Analysis/retirement_titles_percentages.PNG)
